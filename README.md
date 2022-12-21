@@ -35,9 +35,9 @@ October 2021 and now I have HTML , CSS, SASS, BootStrab, JavaScript, TypeScript 
 </div>
 
 <div>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=noamangg&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Ragheb-work&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
   <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamangg&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragheb-work&layout=compact&theme=dark">
 </div>
 
 <br />
@@ -48,7 +48,7 @@ October 2021 and now I have HTML , CSS, SASS, BootStrab, JavaScript, TypeScript 
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"> 
   Github Stats:
 </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=noamangg&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ragheb-work&show_icons=true&theme=dark">
 </div>
 
 
