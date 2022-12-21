@@ -18,12 +18,11 @@ October 2021 and now I have HTML , CSS, SASS, BootStrab, JavaScript, TypeScript 
   </div>
   <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
   
-- I’m Currently Studying In ITE (Information Technology Engineering).
 - Looking Forward To Master Web Development.
-- I Enjoy Playing Calisthenics and Train So Hard.
+- I Like To Play Chess Sometimes.
 - I Learn Programming, Each Single Day.
 - Seeking For Knowledge & Acquiring New Skills.
-- I'm Currently Learning Java Script.
+- I'm Currently Learning React Js.
 
 <br />
 
