@@ -1,7 +1,7 @@
 <h1 align="center">Hey There I'm Ragheb! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 <h3 align="center">A Self Taught Front End Developer </h3>
 <h6>My profile describes my journey from the beginning, here you can find my projects and trainings sites, I love to document all this here, I started in
-October 2021 and now I have HTML , CSS, SASS, BootStrab, JavaScript, TypeScript . and now I am learning React, my journey is just started now</h6>
+October 2021 and now I have HTML , CSS, SASS, BootStrab, JavaScript, TypeScript, Git, Github . and now I am learning React, my journey is just started now</h6>
 <br />
 
 <!-- Gif -->
@@ -61,7 +61,7 @@ October 2021 and now I have HTML , CSS, SASS, BootStrab, JavaScript, TypeScript 
 </div>
 <p>Let's Discover Together Some Live Projects</p>
 
-- [Portfolio Using HTML SASS JS] (https://ragheb-work.github.io/Portfolio-Using-HTML-SASS-JS/)
+- [Portfolio Using HTML SASS JS](https://ragheb-work.github.io/Portfolio-Using-HTML-SASS-JS/)
 - [Responsive Hospital Website HTML CSS JS](https://ragheb-work.github.io/Responsive-Hospital-Website-HTML-SASS-JS/)
 - [Memory Game JS](https://ragheb-work.github.io/Memory-Game/)
 - [Quiz App](https://ragheb-work.github.io/Quiz-App-/)
